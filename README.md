@@ -1,2 +1,2 @@
 # Github_test
-Github tutorial
+This repository is for working on Github.
